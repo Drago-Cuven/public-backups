@@ -58,11 +58,11 @@ class DragoBlocks {
             },
             TEXT_1: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'RixxyX'
+              defaultValue: 'Drago'
             },
             TEXT_2: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'TyruntX'
+              defaultValue: 'Crystal'
             }
           }
         },
@@ -77,7 +77,7 @@ class DragoBlocks {
             },
             TEXT: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'RixxyX'
+              defaultValue: 'Drago'
             }
           }
         },
@@ -88,7 +88,7 @@ class DragoBlocks {
           arguments: {
             TEXT: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'RixxyX is cool, right?'
+              defaultValue: 'DragoBlocks works doesnt it?'
             },
             NUM_1: {
               type: Scratch.ArgumentType.NUMBER,
@@ -107,7 +107,7 @@ class DragoBlocks {
           arguments: {
             TEXT: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'RixxyX is cool, right?'
+              defaultValue: 'DragoBlocks works doesnt it?''
             }
           }
         },
@@ -122,7 +122,7 @@ class DragoBlocks {
             },
             OBJ_VAL: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'RixxyX is cool, right?'
+              defaultValue: 'DragoBlocks works doesnt it?''
             }
           }
         },
@@ -133,11 +133,11 @@ class DragoBlocks {
           arguments: {
             TEXT_1: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'RixxyX is cool, right?'
+              defaultValue: 'DragoBlocks works doesnt it?''
             },
             TEXT_2: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'RixxyX is cool, right?'
+              defaultValue: 'DragoBlocks works doesnt it?''
             }
           }
         },
@@ -148,7 +148,7 @@ class DragoBlocks {
           arguments: {
             TEXT: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'XyxxiR'
+              defaultValue: 'ogarD'
             }
           }
         },
@@ -198,7 +198,7 @@ class DragoBlocks {
           arguments: {
             TEXT: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'rixxyx'
+              defaultValue: 'drago'
             }
           }
         },
@@ -209,7 +209,7 @@ class DragoBlocks {
           arguments: {
             TEXT: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'RIXXYX'
+              defaultValue: 'DRAGO'
             }
           }
         },
@@ -220,7 +220,7 @@ class DragoBlocks {
           arguments: {
             TEXT: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'rixxyX is cool, right?'
+              defaultValue: 'DragoBlocks works doesnt it?'
             }
           }
         },
@@ -275,7 +275,7 @@ class DragoBlocks {
           arguments: {
             TEXT: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'RixxyX'
+              defaultValue: 'Drago'
             }
           }
         },
@@ -301,7 +301,7 @@ class DragoBlocks {
           arguments: {
             JS_CODE: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: '\"Ri\" + \"xx\" + \"yX\"'
+              defaultValue: '\"D\" + \"ra\" + \"go\"'
             }
           }
         },
@@ -312,7 +312,7 @@ class DragoBlocks {
           arguments: {
             TEXT: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: '\"RixxyX\"'
+              defaultValue: '\"Drago\"'
             }
           }
         },
@@ -323,7 +323,7 @@ class DragoBlocks {
           arguments: {
             JS_CODE: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: '\"Ri\" + \"xx\" + \"yX\"'
+              defaultValue: '\"D\" + \"ra\" + \"go\"'
             }
           }
         },
