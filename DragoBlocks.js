@@ -4,7 +4,7 @@ class DragoBlocks {
   getInfo() {
     return {
       color1: "#b40000",
-      color2: "#280000",
+      color2: "#b40000",
       id: "DragoBlocks",
       name: "DragoBlocks",
       description: '[deleted]',
@@ -34,7 +34,7 @@ class DragoBlocks {
               defaultValue: '#ff0000'
             }
           }
-        },A
+        },
         {
           opcode: 'returnTrue',
           blockType: Scratch.BlockType.BOOLEAN,
@@ -88,7 +88,7 @@ class DragoBlocks {
           arguments: {
             TEXT: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'DragoBlocks works doesnt it?'
+              defaultValue: 'DragoBlocks works doesn\'t it?'
             },
             NUM_1: {
               type: Scratch.ArgumentType.NUMBER,
@@ -107,7 +107,7 @@ class DragoBlocks {
           arguments: {
             TEXT: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'DragoBlocks works doesnt it?''
+              defaultValue: 'DragoBlocks works doesn\'t it?\''
             }
           }
         },
@@ -122,7 +122,7 @@ class DragoBlocks {
             },
             OBJ_VAL: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'DragoBlocks works doesnt it?''
+              defaultValue: 'DragoBlocks works doesn\'t it?\''
             }
           }
         },
@@ -133,11 +133,11 @@ class DragoBlocks {
           arguments: {
             TEXT_1: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'DragoBlocks works doesnt it?''
+              defaultValue: 'DragoBlocks works doesn\'t it?\''
             },
             TEXT_2: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'DragoBlocks works doesnt it?''
+              defaultValue: 'DragoBlocks works doesn\'t it?\''
             }
           }
         },
@@ -220,7 +220,7 @@ class DragoBlocks {
           arguments: {
             TEXT: {
               type: Scratch.ArgumentType.STRING,
-              defaultValue: 'DragoBlocks works doesnt it?'
+              defaultValue: 'DragoBlocks works doesn\'t it?'
             }
           }
         },
