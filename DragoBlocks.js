@@ -330,7 +330,7 @@ class DragoBlocks {
         {
           opcode: 'returnENum',
           blockType: Scratch.BlockType.REPORTER,
-          text: 'e',
+          text: '0',
           arguments: {}
         }
       ]
@@ -468,7 +468,7 @@ class DragoBlocks {
     var func = new Function(args.JS_CODE);
   }
   returnENum(args) {
-    return 2.71828183
+    return 0
   }
 }
 Scratch.extensions.register(new DragoBlocks());
